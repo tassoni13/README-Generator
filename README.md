@@ -17,7 +17,10 @@
   Download source code, open terminal, enter ``` npm i ```, enter ``` node index ```
 
   ## Usage
-  Used for creating an auto-formatted README file
+  Used for creating an auto-formatted README file. Video for demonstration: 
+
+  ![Demo](.\assets\demo-video.gif)
+  Link to video: https://drive.google.com/file/d/1GtF-Bk2VFGkeuvK9WBJyo8gRscAANdg0/view
 
   ## License 
   This application is licensed under MIT open-source licensing.
@@ -30,3 +33,5 @@
   ## Questions
    Please contact [tassoni13@gmail.com](mailto:tassoni13@gmail.com) with questions. 
    Visit my [GitHub](https://github.com/tassoni13) to see past and current projects.
+
+   * This README file was generated with this README Generator
