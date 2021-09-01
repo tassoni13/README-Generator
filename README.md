@@ -19,8 +19,11 @@
   ## Usage
   Used for creating an auto-formatted README file. Video for demonstration: 
 
-  ![Demo](.\assets\demo-video.gif)
+  ![Demo](assets/demo-video.gif)
+
   Link to video: https://drive.google.com/file/d/1GtF-Bk2VFGkeuvK9WBJyo8gRscAANdg0/view
+
+
 
   ## License 
   This application is licensed under MIT open-source licensing.
